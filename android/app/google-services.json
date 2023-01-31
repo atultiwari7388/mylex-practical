@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272043974255",
+    "project_id": "mylex-practical",
+    "storage_bucket": "mylex-practical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272043974255:android:c763cc3e16123c9129779a",
+        "android_client_info": {
+          "package_name": "com.example.mylex_practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272043974255-2m6ecn44fci8rfgomb79cvbl5ssgie2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwWSdBT4-g8GjKkkEw4ADLYD5RWOJSeWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272043974255-2m6ecn44fci8rfgomb79cvbl5ssgie2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
